@@ -14,20 +14,17 @@ Task we have performed
 5. Handle the null Values
 6. Graphical Analysis
 7. Handling the outliers
-8. Store preprocessed data into mongoDB
-9. Retrive data from mondoDB
-10. Check relationship between Independent and Dependent Feature
-11. Train Test Split
-12. Encoding Ordinal Encoder,One Hot Encoding
-13. Label Encoding of target variable
-14. Standardizing data
-15. Dumping preprocessed data in pickle
-16. Model Building
+8. Train Test Split
+9. Encoding Ordinal Encoder,One Hot Encoding
+10. Label Encoding of target variable
+11. Standardizing data
+12. Dumping preprocessed data in pickle
+13. Model Building
     Baseline Model : Support Vector Classifier (SVC) Logistic Regression
     SVC Hyperparameter tunning
-17.  Balance dataset using Random Under Sampler Balanced SVC Classifier
+14.  Balance dataset using Random Under Sampler Balanced SVC Classifier
      Balanced Logistic Regression Balanced SVC Classifier Hypertuning
-18.  Summary
+15 .  Summary
 
 
 ## 🔗 Links
